@@ -2,12 +2,13 @@
 
 ### Node
 
+- ⭐ [**comfig**](https://github.com/haxtra/comfig) - human-friendly, customizable, file-based config reader/writer with first-class comment support _{node}_
 - ⭐ [**liquery**](https://github.com/haxtra/liquery) - powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases _{node,sqlite}_
 - ⭐ [**super-sqlite3**](https://github.com/haxtra/super-sqlite3) - fast SQLite driver with optional full db encryption, simple query builder, and a host of utility features _{node,sqlite}_
 - [**kvstore-sqlite**](https://github.com/haxtra/kvstore-sqlite) - basic key-value store for SQLite databases _{node,sqlite}_
 - [**live-object**](https://github.com/haxtra/live-object) - standard js object with built-in json serialization to file. dreams do come true sometimes _{node}_
 - [**logger**](https://github.com/haxtra/logger) - configurable console logger with support for multiple independent groups _{node}_
-- [**memory-cache**](https://github.com/haxtra/memory-cache) - memory based cache library, with two-way expiration, tags and events _{node}_
+- [**memory-cache**](https://github.com/haxtra/memory-cache) - memory based cache, with two-way expiration, tags and events _{node}_
 - [**result**](https://github.com/haxtra/result.js) - result/response object with HTTP-friendly status codes, for use with web APIs _{node}_
 
 
@@ -18,7 +19,7 @@
 
 ### Web
 
-- ⭐ **xray** - interactive JavaScript object browser ([demo](https://xray.haxtra.com)) _{web,js}_
+- ⭐ **xray** - JavaScript object browser component ([demo](https://xray.haxtra.com)) _{web,js}_
 	- [**xray-mithril**](https://github.com/haxtra/xray-mithril)
 	- [**xray-react**](https://github.com/haxtra/xray-react)
 	- [**xray-solid**](https://github.com/haxtra/xray-solid)
@@ -29,7 +30,7 @@
 ## Command Line
 
 - [**goodiebin**](https://github.com/haxtra/goodiebin) - collection of small command line apps, that are too small to warrant their own repo
-	- mdtoc - generate table of contents from markdown file _{python}_
+	- **mdtoc** - generate table of contents from markdown file _{python}_
 
 
 ## Websites
