@@ -5,6 +5,7 @@
 - ⭐ [**comfig**](https://github.com/haxtra/comfig) - human-friendly, customizable, file-based config reader/writer with first-class comment support _{node}_
 - ⭐ [**liquery**](https://github.com/haxtra/liquery) - powerful search, tagging, filtering and sorting via simple text query language, for SQLite databases _{node,sqlite}_
 - ⭐ [**super-sqlite3**](https://github.com/haxtra/super-sqlite3) - fast SQLite driver with optional full db encryption, simple query builder, and a host of utility features _{node,sqlite}_
+- [**clitter**](https://github.com/haxtra/clitter) - power armor for node command line applications _{node}_
 - [**kvstore-sqlite**](https://github.com/haxtra/kvstore-sqlite) - basic key-value store for SQLite databases _{node,sqlite}_
 - [**live-object**](https://github.com/haxtra/live-object) - standard js object with built-in json serialization to file. dreams do come true sometimes _{node}_
 - [**logger**](https://github.com/haxtra/logger) - configurable console logger with support for multiple independent groups _{node}_
